@@ -1,6 +1,6 @@
 WiFi-connected desk companion using a Raspberry Pi Pico W & Circuit Python by Abby Bergman
 
-Instructable for build COMING SOON
+Instructable for build: https://www.instructables.com/Break-Buddy-a-Portable-Mindfulness-Companion/
 
 Make sure your Raspberry Pi Pico W has the latest version of CircuitPython. The "lib" folder on your Pico should have the following folders/files: 
     - adafruit_display_text
